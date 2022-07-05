@@ -8,4 +8,4 @@ for i in x:
 
     counter = counter + 1
 
-print("length of given list is : ",counter)
+print("Length of given list is : ",counter)
